@@ -4,11 +4,13 @@ spring boot读取配置文件
 1.环境  win10  eclipse3.4 jdk7  maven3.3
 
 2.dependency
+
  <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
     <version>1.3.2.RELEASE</version>
-</dependency>
+ </dependency>
+
 3.默认配置文件名  application.properties
 server.info.address=192.168.1.1
 server.info.username=user1
