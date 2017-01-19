@@ -3,8 +3,7 @@ spring boot读取配置文件
 
 1.环境  win10  eclipse3.4 jdk7  maven3.3
 
-2.dependency
-
+2.依赖
  <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
